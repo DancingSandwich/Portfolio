@@ -19,6 +19,9 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Features](#Features)
+- [How to Contribute](#How_to_Contribute)
+
 
 ## Installation
 
@@ -26,7 +29,7 @@ There are not need to install anything. The webpage is going to be web hosted.
 
 ## Demo
 
-Click on this link to visit the webpage
+[Click here to view the project](https://dancingsandwich.github.io/Portfolio/)
 
 ## Usage
 
