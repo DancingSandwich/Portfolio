@@ -35,9 +35,7 @@ There are not need to install anything. The webpage is going to be web hosted.
 
 Click on any of these links or images to view the projects and get in touch. 
 
-```md
 ![alt text](assets/images/Screenshot.png)
-```
 
 ## Credits
 
