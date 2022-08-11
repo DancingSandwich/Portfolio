@@ -33,13 +33,11 @@ There are not need to install anything. The webpage is going to be web hosted.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Click on any of these links or images to view the projects and get in touch. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+```md
+![alt text](assets/images/Screenshot.png)
+```
 
 ## Credits
 
@@ -71,7 +69,6 @@ SOFTWARE.
 
 ---
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 ## Features
 
 - Up to date information about Sanket Panchal
